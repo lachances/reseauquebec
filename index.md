@@ -12,9 +12,17 @@ Proposition de politique nationale du numérique.
 - Valeur invasive
 
 ## Nationalisation de l'infrastructure internet
+- Internet pour tous
+- Canada: parmi les pires au monde, oligopole
+- Exemple de la Finlande
+- Considérations techniques: Fibre vs Cable, LTE vs 5G
+- L'exemple d'Hydro-Québec: nationaliser pour les même raisons
+- L'exemple de la Saskatchewan et SaskTel
 
+### Open-source
+- Utilisation et réinvestissement
 
-## Centres de données
+### Centres de données
 - Infrastructure locale pour besoins gouvernementaux, municipaux, communautaires et commerciaux
 - Maximiser notre souveraineté numérique et notre niveau de contrôle sur les technologies clés
 - Captation des profits / réduction déficit commercial (payer R-Q plutôt qu'AWS)
