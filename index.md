@@ -1,5 +1,5 @@
 # reseauquebec
-
+{{TOC}}
 ## Intro
 Bienvenue
 
