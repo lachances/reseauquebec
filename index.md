@@ -7,3 +7,5 @@ Bienvenue
 Internet pour tous!
 
 ### Merci
+
+Allo :)
