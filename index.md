@@ -8,6 +8,8 @@ Proposition de politique nationale du numérique.
 ## Droits et vie privée
 - Dangers et invasion numérique à laquelle on fait face
 - RGPD-Québec / PL64 / Charte de la vie privée
+- Action contre la publicité ciblée: une pierre deux coups pour crise des médias et données personnelles
+- Valeur invasive
 
 ## Nationalisation de l'infrastructure internet
 
