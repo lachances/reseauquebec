@@ -8,4 +8,4 @@ Internet pour tous!
 
 ### Merci
 
-Allo :)
+Ok.
