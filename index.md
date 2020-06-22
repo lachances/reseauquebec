@@ -1,7 +1,7 @@
 ---
 title: Réseau-Québec
 ---
-
+<img src="logo.png" width="200" />
 # Réseau-Québec
 Proposition de politique nationale du numérique.
 
