@@ -1,9 +1,10 @@
 ---
 title: Réseau-Québec
+headingDivider: 3
 ---
 <img src="logo.png" width="200" />
 # Réseau-Québec
-Proposition de politique nationale du numérique.
+Une politique numérique nationale et .
 
 ## Droits et vie privée
 - Sensibilisation auprès des institutions et de la population
@@ -15,16 +16,15 @@ Proposition de politique nationale du numérique.
 
 ## Nationalisation de l'infrastructure internet
 - Internet pour tous, accessibilité universelle
-- 
-- Canada: parmi les pires au monde, oligopole
+- Canada: un oligopole parmi les pires au monde
 - Exemple de la Finlande
-- Considérations techniques: Fibre vs Cable, LTE vs 5G
+- Considérations techniques stratégiques: Fibre vs Cable, LTE vs 5G
 - L'exemple d'Hydro-Québec: nationaliser pour les même raisons
 - L'exemple de la Saskatchewan et SaskTel
 
 ### Open-source
 - Utilisation et réinvestissement
-- Maker
+- Maker culture
 
 ### Centres de données
 - Infrastructure locale pour besoins gouvernementaux, municipaux, communautaires et commerciaux
