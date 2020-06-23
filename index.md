@@ -5,7 +5,7 @@ headingDivider: 3
 
 <img src="logo.png" width="300px"/>
 
-# Réseau-Québec: Une politique pour un avenir numérique solidaire
+# Réseau-Québec: Pour un avenir numérique solidaire
 
 ## Objectifs
 - Établir le Québec parmi les leaders mondial en matière numérique
