@@ -2,9 +2,11 @@
 title: Réseau-Québec
 headingDivider: 3
 ---
+
 <img src="logo.png" width="200" />
+
 # Réseau-Québec
-Une politique numérique nationale et .
+Une politique numérique solidaire pour le Québec de demain
 
 ## Droits et vie privée
 - Sensibilisation auprès des institutions et de la population
