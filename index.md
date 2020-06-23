@@ -3,7 +3,7 @@ title: Réseau-Québec
 headingDivider: 3
 ---
 
-<img src="logo.png" width="200px" align="center" />
+<img src="logo.png" width="300px"/>
 
 # Réseau-Québec: Une politique pour un avenir numérique solidaire
 
