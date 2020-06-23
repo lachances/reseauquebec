@@ -3,13 +3,16 @@ title: Réseau-Québec
 headingDivider: 3
 ---
 
-<img src="logo.png" width="200" />
+<img src="logo.png" width="200px" align="center" />
 
-# Réseau-Québec
-Une politique numérique solidaire pour le Québec de demain
+# Réseau-Québec: Une politique pour un avenir numérique solidaire
 
-## Objectif
-Création d'une terre fertile pour nos entrepreneurs
+## Objectifs
+- Établir le Québec parmi les leaders mondial en matière numérique
+- Créer une terre fertile d'opportunité pour l'innovation et l'entrepreneuriat de demain
+- Assurer l'accessibilité universelle à internet et aux technologies fondamentales
+- Promouvoir et protéger les intérêts des citoyens québécois face aux géants du web et aux menaces étrangères
+- Mettre en place des mesures d'éducation et d'actualisation collective pour les citoyens, entreprises et autres organisations
 
 ## Droits et vie privée
 - Sensibilisation auprès des institutions et de la population
@@ -18,8 +21,9 @@ Création d'une terre fertile pour nos entrepreneurs
 - RGPD-Québec / PL64 / Charte de la vie privée
 - Action contre la publicité ciblée: une pierre deux coups pour crise des médias et données personnelles
 
-## Télécom
+## Télécoms
 ### Nationalisation de l'infrastructure de distribution
+- Propriété collective de l'infrastructure clé
 - Contexte actuel de socialisation des dépenses et privatisation des profits via les subventions télécom
 - Internet pour tous, accessibilité universelle
 - Canada: un oligopole parmi les pires au monde
@@ -58,7 +62,6 @@ Création d'une terre fertile pour nos entrepreneurs
 - Utilisation et réinvestissement
 - Coopération internationale
 - Approvisionnement et déploiement
-- Maker culture
 
 ### GAFAM
 - Stratégie face aux GAFAM
