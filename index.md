@@ -6,13 +6,16 @@ title: Réseau-Québec
 Proposition de politique nationale du numérique.
 
 ## Droits et vie privée
+- Sensibilisation auprès des institutions et de la population
+- Formations et ressources éducatives
 - Dangers et invasion numérique à laquelle on fait face
 - RGPD-Québec / PL64 / Charte de la vie privée
 - Action contre la publicité ciblée: une pierre deux coups pour crise des médias et données personnelles
 - Valeur invasive
 
 ## Nationalisation de l'infrastructure internet
-- Internet pour tous
+- Internet pour tous, accessibilité universelle
+- 
 - Canada: parmi les pires au monde, oligopole
 - Exemple de la Finlande
 - Considérations techniques: Fibre vs Cable, LTE vs 5G
@@ -21,15 +24,23 @@ Proposition de politique nationale du numérique.
 
 ### Open-source
 - Utilisation et réinvestissement
+- Maker
 
 ### Centres de données
 - Infrastructure locale pour besoins gouvernementaux, municipaux, communautaires et commerciaux
 - Maximiser notre souveraineté numérique et notre niveau de contrôle sur les technologies clés
-- Captation des profits / réduction déficit commercial (payer R-Q plutôt qu'AWS)
+- Rétention des profits / réduction du déficit commercial, arrêter le saignement vers les AWS/Google/Microsoft/CGI/SAP/IBM/Oracle
 - Aspect environnemental. Le Québec est en parfaite posture pour réduire les emission à l'étranger tout en en bénéficiant économiquement ici. 
 
-## Cybersécurité
-- Agence d'audit et de cybersécurité
+## Sécurité nationale
+- Agence de cybersécurité
+- Agence d'audit
 - Protection des intérêts nationaux: citoyens, entreprises et gouvernements
 - Contre-surveillance
+- Protection contre interférence étrangère
 
+## Éducation
+- Compétence numérique, enseignement continu pour modernisation continue de la population
+
+## Éthique
+- Aspects éthiques, philosophiques, réglementaires et encadrement
