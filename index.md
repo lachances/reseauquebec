@@ -33,10 +33,11 @@ headingDivider: 3
 - L'exemple de la Saskatchewan et SaskTel
 
 ### 5G
-- Qu'est-ce que c'est
-- Vrai vs faux
-- Contextes où c'est bon, là où ça l'est pas
-- 5G vs LTE vs Wi-Fi
+- Comment fonctionne le réseau cellulaire
+- Technologie actuelle et nouvelle génération (LTE vs 5G)
+- Séparer le vrai du faux
+- Contextes où le 5G est intéressant et où il ne l'est pas
+- Villes connectées: comment déployer stratégiquement et intelligement
 
 ### Centres de données
 - Infrastructure locale pour besoins gouvernementaux, municipaux, communautaires et commerciaux
@@ -45,11 +46,14 @@ headingDivider: 3
 - Aspect environnemental. Le Québec est en parfaite posture pour réduire les émission à l'étranger tout en en bénéficiant économiquement ici. 
 
 ## Sécurité nationale
-- Agence de cybersécurité
-- Agence d'audit
+- Agence d'audit et de cybersécurité
 - Protection des intérêts nationaux: citoyens, entreprises et gouvernements
 - Contre-surveillance
 - Protection contre interférence étrangère
+
+## Entreprises
+- Assurer une accessibilité de pointe aux entreprises partout à travers le Québec et mettre à leur disposition les ressources nécessaires (serveurs, bande passante, etc)
+- Ressources gratuites pour toute entreprise en démarrage
 
 ## Éducation
 - Compétence numérique, enseignement continu pour modernisation continue de la population
@@ -65,7 +69,6 @@ headingDivider: 3
 
 ### GAFAM
 - Stratégie face aux GAFAM
-- Distinctions entre "les GAFAM"
-- Modèles d'affaires, sources de revenus
+- Distinctions entre "les GAFAM", modèles d'affaires, sources de revenus
 - Plus grands dangers long terme, coûts, dépendance
 - Stratégie d'action
