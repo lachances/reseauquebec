@@ -57,6 +57,8 @@ headingDivider: 3
 
 ## Éducation
 - Compétence numérique, enseignement continu pour modernisation continue de la population
+- Programme de formation en sécurité et confidentialité de l'information pour les entreprises
+- Assurer un accès internet moderne et adéquat dans toutes les écoles du Québec
 
 ## Éthique
 - Aspects éthiques, philosophiques, réglementaires et encadrement
