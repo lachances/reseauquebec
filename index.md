@@ -62,6 +62,7 @@ headingDivider: 3
 
 ## Éthique
 - Aspects éthiques, philosophiques, réglementaires et encadrement
+- Interdir l'utilisation de la reconnaissance faciale par les forces de l'ordre
 
 ## Aussi:
 ### Open-source
